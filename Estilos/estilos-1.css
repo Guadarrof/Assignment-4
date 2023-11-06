@@ -169,14 +169,14 @@ h1{
 }
 
 .arrow-prev{
-    left: 5%;
+    left: -10%;
     position: absolute;
     top: 50%;
     transform: translateY(-50%) rotate(135deg);
 }
 
 .arrow-next{
-    right: 5%;
+    right: -10%;
     position: absolute;
     top: 50%;
     transform: translateY(-50%) rotate(-45deg);
