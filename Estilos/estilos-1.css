@@ -60,7 +60,7 @@ footer h4{
     background-color: green;
     border-radius: 0.3rem;
     color: white;
-    margin-bottom: 2%;
+    margin:  2% auto;
     padding: 0.5rem;
     text-decoration: none;
     width: fit-content;
