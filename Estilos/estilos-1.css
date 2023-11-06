@@ -56,18 +56,17 @@ footer h4{
 
 }
 
-.game-card a{
+.buy-button{
     background-color: green;
     border-radius: 0.3rem;
     color: white;
-    margin-left: 40%;
     margin-bottom: 2%;
-    padding: 2%;
+    padding: 0.5rem;
     text-decoration: none;
     width: fit-content;
 }
 
-.game-card a:visited{
+.buy-button:visited{
     background-color: #4e0e28;
     color: white;
     text-decoration: none;
@@ -79,6 +78,11 @@ footer h4{
     display: flex;
     flex-direction: column;
     margin: 0rem 0.5rem 1.5rem 0.5rem;
+    padding: 1%;
+}
+
+.game-card p{
+    line-height: 1.5rem;
 }
 
 
